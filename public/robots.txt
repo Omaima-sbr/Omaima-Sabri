@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Omaima-sbr.github.io/sitemap.xml

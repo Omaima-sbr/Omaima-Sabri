@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 📌 SITEMAP : Plan du site pour Google et autres moteurs de recherche -->
+<!-- ⭐ Aide Google à trouver et indexer toutes vos pages -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- 🏠 PAGE D'ACCUEIL : La plus importante -->
+  <url>
+    <loc>https://Omaima-sbr.github.io/#Home</loc>
+    <priority>1.0</priority>
+    <!-- Priority 1.0 = Page la plus importante du site -->
+  </url>
+  
+  <!-- 👤 PAGE À PROPOS : Très importante -->
+  <url>
+    <loc>https://Omaima-sbr.github.io/#About</loc>
+    <priority>0.9</priority>
+    <!-- Priority 0.9 = Deuxième page la plus importante -->
+  </url>
+  
+  <!-- 💼 PAGE PORTFOLIO : Importante -->
+  <url>
+    <loc>https://Omaima-sbr.github.io/#Portfolio</loc>
+    <priority>0.8</priority>
+    <!-- Priority 0.8 = Page importante mais moins que Accueil et About -->
+  </url>
+  
+  <!-- 📧 PAGE CONTACT : Importante -->
+  <url>
+    <loc>https://Omaima-sbr.github.io/#Contact</loc>
+    <priority>0.8</priority>
+  </url>
+  
+</urlset>
+

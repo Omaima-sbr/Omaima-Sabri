@@ -1,17 +1,20 @@
-# 👋 Hi, I'm Omaima Sabri
+# Omaima Sabri – Computer Engineering Portfolio
 
-I'm a computer science student passionate about **web development** and **software engineering**.
+Welcome to my personal portfolio! I am **Omaima Sabri**, a 2nd-year Computer Engineering student passionate about **web development, cybersecurity, and cloud computing**. This website showcases my projects, skills, and ways to contact me.
 
-## 🚀 Projects
-- [Library Management App](#)
-- [Task Manager (React Native)](#)
-- [Portfolio Website](#)
+## 🌐 Live Demo
 
-## 💡 Skills
-- HTML, CSS, JavaScript, React, Node.js
-- Python, C, Java
-- Firebase, PostgreSQL
+Check out the live portfolio here: [https://Omaima-sbr.github.io](https://Omaima-sbr.github.io)
 
-## 📫 Contact
-- 📧 sabriomaima24@gmail.com
-- 🌐 [My Portfolio](https://Omaima-sbr.github.io)
+## 🛠️ Built With
+
+This project is built using modern web technologies:
+
+- **ReactJS** – Frontend library
+- **Tailwind CSS** – Utility-first CSS framework
+- **Supabase** – Backend for portfolio data, certificates, and comments
+- **AOS** – Animate On Scroll library
+- **Framer Motion** – Animation library
+- **Lucide** – Icon library
+- **Material UI** – React component library
+- **SweetAlert2** – Beautiful alert dialogs
